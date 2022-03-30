@@ -1,7 +1,5 @@
-body {
-    background-color: hsl(240, 100%, 97%);
-}
-
 #author {
     color:red;
+    text-align: left;
+
 }
